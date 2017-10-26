@@ -18,8 +18,5 @@ def view():
 def submit():
     pass
 
-@app.route("/api/submit")
-def submit():
-    pass
 
 app.run()
