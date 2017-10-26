@@ -1,0 +1,9 @@
+html, body{
+  padding: 0px;
+  margin: 0px;
+  background-color: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
